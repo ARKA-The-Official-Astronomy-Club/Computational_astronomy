@@ -1,0 +1,5 @@
+cd Desktop
+
+conda env create -f cvcourse_windows.yml
+
+conda activate python_cvcourse
