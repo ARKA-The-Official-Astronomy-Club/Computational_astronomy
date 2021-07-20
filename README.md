@@ -54,7 +54,6 @@ Set of Jupyter Notebooks, along with datafiles, to get started with Scientific C
 * [If are into reading(Official documentation of Numpy)](https://numpy.org/ "reading")
 ##### Solve the tutorial and you will we good to continue further.
 
-* 
 
 ***
 ## [Tutorial 3 : Functions in Python](./Tutorial_03)
