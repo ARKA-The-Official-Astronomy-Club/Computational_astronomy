@@ -36,7 +36,7 @@ Set of Jupyter Notebooks, along with datafiles, to get started with Scientific C
 * Parse a file and make a list containing the number of moons for each planet.
 # Roadmap
 * Complete any one playlist both are same.
-* [I'm an inline-style link with title](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME "Playlist 1")
+* [Playlist 1](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME "Playlist 1")
 * [I'm an inline-style link with title](https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 "Playlist 2")
 
 ***
