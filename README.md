@@ -39,7 +39,7 @@ Set of Jupyter Notebooks, along with datafiles, to get started with Scientific C
 * [Playlist 1](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME "Playlist 1")
 * [Playlist 2](https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 "Playlist 2")
 * [If are into reading](https://www.codesdope.com/course/python-introduction/ "reading")
-##### Solve the tutorial and you will we good to continue.
+##### Solve the tutorial and you will we good to continue further.
 
 ***
 
@@ -48,6 +48,13 @@ Set of Jupyter Notebooks, along with datafiles, to get started with Scientific C
 * Numpy arrays, indexing, slicing.
 * Parse file as above using numpy (np.where, for example).
 * Beehive Cluster.
+# Roadmap
+##### Complete any one playlist both are same.
+* [Playlist 1](https://youtube.com/playlist?list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z "Playlist 1")
+* [If are into reading(Official documentation of Numpy)](https://numpy.org/ "reading")
+##### Solve the tutorial and you will we good to continue further.
+
+* 
 
 ***
 ## [Tutorial 3 : Functions in Python](./Tutorial_03)
